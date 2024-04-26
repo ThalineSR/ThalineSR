@@ -4,7 +4,7 @@
 ![gif da bruxa programando](https://i.redd.it/0k6meqvps4h91.gif)
 ----------
 🐾 Olá, me chamo Thaline S Reis!🌺 <br>
-📖 sou uma nova estutante na area da tecnologia <br>
+📖 sou uma nova estudante na area da tecnologia <br>
 📫 [Linkedin](https://www.linkedin.com/in/thaline-silva-reis-506555286/)
 ---------
 ## Minhas Tecnologias 
@@ -22,8 +22,10 @@
 |Colaboração no Github|[Certificado](https://www.dio.me/certificate/EWEUUMKR/share)|
 ------------------
 
-![ThalineSR GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalineSR&theme=radical&show_icons=true)
+![ThalineSR GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalineSR&theme=radical&show_icons=true) 
+
 ![[ThalineSR GitHub stats]](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalineSR&layout=compact&langs_count=7&theme=radical)
+
       
        
 
