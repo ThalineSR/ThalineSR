@@ -8,6 +8,14 @@
 ##### Titulo 5
 ###### Titulo 6
 
+*italico* ou _italico_
+**negrito** ou _negrito_
+___ negrito e italico ___
+
+- Lista 1
+- Lista 2
+  -Sublista
+
 <!--
 **ThalineSR/ThalineSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
