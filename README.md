@@ -22,6 +22,7 @@
 |Colaboração no Github|[Certificado](https://www.dio.me/certificate/EWEUUMKR/share)|
 ------------------
 ![ThalineSR GitHub stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalineSR&theme=radical&show_icons=true)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalineSR&layout=compact&langs_count=7&theme=radical"/>
 
 
           
