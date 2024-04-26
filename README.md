@@ -9,9 +9,9 @@
 ---------
 ## Minhas Tecnologias 
 
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px" />
           
-            
+       
 
 <!--
 **ThalineSR/ThalineSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
