@@ -9,7 +9,9 @@
 ###### Titulo 6
 
 *italico* ou _italico_
+
 **negrito** ou _negrito_
+
 ___ negrito e italico ___
 
 - Lista 1
