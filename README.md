@@ -4,7 +4,7 @@
 ![gif da bruxa programando](https://i.redd.it/0k6meqvps4h91.gif)
 ----------
 🐾 Olá, me chamo Thaline S Reis!🌺 <br>
-📖 sou uma nova estudante na area da tecnologia <br>
+📖 sou estudante na area de desenvolvimento web <br>
 📫 [Linkedin](https://www.linkedin.com/in/thaline-silva-reis-506555286/)
 ---------
 ## Minhas Tecnologias 
